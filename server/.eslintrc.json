@@ -1,0 +1,7 @@
+module.exports = {
+    "extends": "eslint:all",
+    "rules": {
+        // disable
+        "no-console": "off",
+    }
+}
